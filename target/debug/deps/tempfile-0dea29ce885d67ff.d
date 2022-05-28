@@ -1,0 +1,12 @@
+/Users/raulescobar/Documents/Rusty/shuttler/target/debug/deps/tempfile-0dea29ce885d67ff.rmeta: /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs
+
+/Users/raulescobar/Documents/Rusty/shuttler/target/debug/deps/tempfile-0dea29ce885d67ff.d: /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs
+
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs:

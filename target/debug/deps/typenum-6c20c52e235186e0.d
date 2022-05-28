@@ -1,0 +1,18 @@
+/Users/raulescobar/Documents/Rusty/shuttler/target/debug/deps/typenum-6c20c52e235186e0.rmeta: /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/op.rs /Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/consts.rs
+
+/Users/raulescobar/Documents/Rusty/shuttler/target/debug/deps/typenum-6c20c52e235186e0.d: /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/op.rs /Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/consts.rs
+
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/Users/raulescobar/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/op.rs:
+/Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/raulescobar/Documents/Rusty/shuttler/target/debug/build/typenum-006ea1b6db8bb685/out/op.rs
