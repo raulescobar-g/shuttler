@@ -591,6 +591,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "349d5a591cd28b49e1d1037471617a32ddcda5731b99419008085f72d5a53836"
 
 [[package]]
+name = "linky"
+version = "0.1.0"
+dependencies = [
+ "rocket",
+ "shuttle-service",
+]
+
+[[package]]
 name = "lock_api"
 version = "0.4.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1135,14 +1143,6 @@ dependencies = [
  "shuttle-common",
  "thiserror",
  "tokio",
-]
-
-[[package]]
-name = "shuttler"
-version = "0.1.0"
-dependencies = [
- "rocket",
- "shuttle-service",
 ]
 
 [[package]]
